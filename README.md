@@ -89,9 +89,3 @@ O contrato já está carregado como base de conhecimento. Exemplos de perguntas:
 - *Quantos profissionais a CONTRATADA deve alocar?*
 - *Qual a multa em caso de rescisão imotivada pela CONTRATANTE?*
 - *Qual o prazo da obrigação de confidencialidade após o término do contrato?*
-
----
-
-## 📄 Licença
-
-Este projeto está disponível sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
